@@ -1,0 +1,18 @@
+.h1style{
+color: pink;
+font-style: italic;
+text-align: center;
+margin-top: 20px;
+}
+.p1style{
+
+    color: blue;
+    font-style: italic;
+    text-align: center;
+
+}
+.p2style{
+    color: aquamarine;
+    font-weight: bold;
+    text-align: center;
+}
